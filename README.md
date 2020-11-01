@@ -23,7 +23,4 @@ end
 Next open up your visual studio code. Open a script up. When you are ready to execute, click the little button at the bottom left called..
 "Execute Synapse Script"
 # Need Help / Questions
-Please contact me on discord.
-It is..
-##cj#1211
-###ID:342330635806965761
+Please contact me on discord. Tag: cj#1211  ID:342330635806965761
